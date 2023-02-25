@@ -1,1 +1,1 @@
-# leetcode-patterns
+# leetcode patterns solutions
